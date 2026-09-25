@@ -1,5 +1,7 @@
 Flye assembler
 ==============
+!! make  pas make -j_qqchose
+
 
 [![BioConda Install](https://img.shields.io/conda/dn/bioconda/flye.svg?style=flag&label=BioConda%20install)](https://anaconda.org/bioconda/flye)
 
